@@ -1,0 +1,12 @@
+- tag: stub
+  label: Stub
+  icon: link-broken
+  color: red
+- tag: removed
+  label: Removed
+  icon: box-archive
+  color: violet
+- tag: idea
+  label: Idea
+  icon: lightbulb
+  color: blue
